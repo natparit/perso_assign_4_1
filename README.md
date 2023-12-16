@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # perso_assign_4_1
 
 
@@ -24,3 +25,6 @@ $ pytask
 This project was created with [cookiecutter](https://github.com/audreyr/cookiecutter)
 and the
 [econ-project-templates](https://github.com/OpenSourceEconomics/econ-project-templates).
+=======
+# perso_assign_4_1
+>>>>>>> 9b3dd6f6cd386d22961ec0582cfe3a4bd81cc77f
